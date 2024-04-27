@@ -1,0 +1,10 @@
+{
+  "secretKey": "AOFyaugfaogf",
+  "secretkeySession": "Aga7587agg",
+  "port": "3000",
+
+  "host": "localhost",
+  "user": "root",
+  "database": "pokemongang",
+  "password": ""
+}
