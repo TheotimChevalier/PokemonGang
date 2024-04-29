@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'W95FA';
+  src: url('../assets/font/w95fa.woff') format('woff');
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'W95FA';
+  text-decoration: none;
+  border: none;
+  overflow: hidden;
+}
+ 
+canvas {
+ margin-top: 25px;
+  margin-bottom: 25px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.info-game {
+  position: absolute;
+}

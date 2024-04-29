@@ -1,0 +1,60 @@
+@font-face {
+  font-family: 'W95FA';
+  src: url('../assets/font/w95fa.woff') format('woff');
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'W95FA';
+  text-decoration: none;
+  border: none;
+  overflow: hidden;
+}
+
+h2 {
+  text-align: center;
+}
+
+form {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 300px;
+  margin: auto;
+  margin-top: 10%;
+}
+
+label {
+  display: block;
+  margin-bottom: 8px;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 16px;
+  box-sizing: border-box;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+p {
+  text-align: center;
+  margin-top: 10px;
+}
+
+p.error {
+  color: red;
+}
+
+p.success {
+  color: green;
+}
+
+.form-hide {
+  display: none;
+}

@@ -1,0 +1,517 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "world/quoicoucity.json",
+    "expandedProjectPaths": [
+        "quoicoucity/city",
+        ".",
+        "test",
+        "world",
+        "tileset",
+        "quoicoucity"
+    ],
+    "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "#tiled_map_4_32": {
+            "scaleInDock": 1
+        },
+        "city/quoicoucity.json": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 565.3333333333333,
+                "y": 1055.3333333333333
+            }
+        },
+        "city/quoicoucity.json#tiled_map_4_32": {
+            "scaleInDock": 0.75
+        },
+        "city/quoicoucity_infini.json": {
+            "scale": 0.28543294270833336,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -1030.0142555739292,
+                "y": 765.5037919826651
+            }
+        },
+        "city/quoicoucity_infini.json#tiled_map_4_32": {
+            "scaleInDock": 1
+        },
+        "quoicoucity/city/0_0.json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -3,
+                "y": -1.5
+            }
+        },
+        "quoicoucity/city/0_0.json#tiled_map_4_32": {
+            "scaleInDock": 1
+        },
+        "quoicoucity/city/0_0.tmj": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -1,
+                "y": -0.5
+            }
+        },
+        "quoicoucity/city/0_0.tmj#tiled_map_4_32": {
+            "scaleInDock": 1
+        },
+        "quoicoucity/city/0_1.json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -3,
+                "y": -1.5
+            }
+        },
+        "quoicoucity/city/0_1.json#tiled_map_4_32": {
+            "scaleInDock": 1
+        },
+        "quoicoucity/city/0_2.json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -1,
+                "y": -0.5
+            }
+        },
+        "quoicoucity/city/0_2.json#tiled_map_4_32": {
+            "scaleInDock": 1
+        },
+        "quoicoucity/city/0_3.json": {
+            "scale": 1,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": -1,
+                "y": -0.5
+            }
+        },
+        "quoicoucity/city/0_3.json#tiled_map_4_32": {
+            "scaleInDock": 1
+        },
+        "quoicoucity/city/0_4.json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -1,
+                "y": -0.5
+            }
+        },
+        "quoicoucity/city/0_4.json#tiled_map_4_32": {
+            "scaleInDock": 1
+        },
+        "quoicoucity/city/1_0.json": {
+            "scale": 2.6232954545454543,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 176.1143599740091,
+                "y": 176.30495993069096
+            }
+        },
+        "quoicoucity/city/1_0.json#tiled_map_4_32": {
+            "scaleInDock": 1
+        },
+        "quoicoucity/city/1_1.json": {
+            "scale": 2,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 225.5,
+                "y": 164.25
+            }
+        },
+        "quoicoucity/city/1_1.json#tiled_map_4_32": {
+            "scaleInDock": 1
+        },
+        "quoicoucity/city/1_2.json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -1,
+                "y": -0.5
+            }
+        },
+        "quoicoucity/city/1_2.json#tiled_map_4_32": {
+            "scaleInDock": 1
+        },
+        "quoicoucity/city/1_3.json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -2,
+                "y": -0.5
+            }
+        },
+        "quoicoucity/city/1_3.json#tiled_map_4_32": {
+            "scaleInDock": 1
+        },
+        "quoicoucity/city/1_4.json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -3,
+                "y": -1.5
+            }
+        },
+        "quoicoucity/city/1_4.json#tiled_map_4_32": {
+            "scaleInDock": 1
+        },
+        "quoicoucity/city/2_0.json": {
+            "scale": 1,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": -2,
+                "y": -1.5
+            }
+        },
+        "quoicoucity/city/2_0.json#tiled_map_4_32": {
+            "scaleInDock": 1
+        },
+        "quoicoucity/city/2_1.json": {
+            "scale": 1,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": -2,
+                "y": -0.5
+            }
+        },
+        "quoicoucity/city/2_1.json#tiled_map_4_32": {
+            "scaleInDock": 1
+        },
+        "quoicoucity/city/2_2.json": {
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": -1,
+                "y": -0.5
+            }
+        },
+        "quoicoucity/city/2_2.json#tiled_map_4_32": {
+            "scaleInDock": 1
+        },
+        "quoicoucity/city/2_3.json": {
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": -2,
+                "y": -0.5
+            }
+        },
+        "quoicoucity/city/2_3.json#tiled_map_4_32": {
+            "scaleInDock": 1
+        },
+        "quoicoucity/city/2_4.json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -2,
+                "y": -1.5
+            }
+        },
+        "quoicoucity/city/2_4.json#tiled_map_4_32": {
+            "scaleInDock": 1
+        },
+        "quoicoucity/city/3_0.json": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 142,
+                "y": 27
+            }
+        },
+        "quoicoucity/city/3_0.json#tiled_map_4_32": {
+            "scaleInDock": 1
+        },
+        "quoicoucity/city/3_1.json": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": -2,
+                "y": -0.5
+            }
+        },
+        "quoicoucity/city/3_1.json#tiled_map_4_32": {
+            "scaleInDock": 1
+        },
+        "quoicoucity/city/3_2.json": {
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": -1,
+                "y": -0.5
+            }
+        },
+        "quoicoucity/city/3_2.json#tiled_map_4_32": {
+            "scaleInDock": 1
+        },
+        "quoicoucity/city/3_3.json": {
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": -3,
+                "y": -1.5
+            }
+        },
+        "quoicoucity/city/3_3.json#tiled_map_4_32": {
+            "scaleInDock": 1
+        },
+        "quoicoucity/city/3_4.json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -2,
+                "y": -1.5
+            }
+        },
+        "quoicoucity/city/3_4.json#tiled_map_4_32": {
+            "scaleInDock": 1
+        },
+        "quoicoucity/city/4_0.json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -1,
+                "y": -0.5
+            }
+        },
+        "quoicoucity/city/4_0.json#tiled_map_4_32": {
+            "scaleInDock": 1
+        },
+        "quoicoucity/city/4_1.json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -2,
+                "y": -0.5
+            }
+        },
+        "quoicoucity/city/4_1.json#tiled_map_4_32": {
+            "scaleInDock": 1
+        },
+        "quoicoucity/city/4_2.json": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": -2,
+                "y": -0.5
+            }
+        },
+        "quoicoucity/city/4_2.json#tiled_map_4_32": {
+            "scaleInDock": 1
+        },
+        "quoicoucity/city/4_3.json": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": -2,
+                "y": 140.5
+            }
+        },
+        "quoicoucity/city/4_3.json#tiled_map_4_32": {
+            "scaleInDock": 1
+        },
+        "quoicoucity/city/4_4.json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -1,
+                "y": -0.5
+            }
+        },
+        "quoicoucity/city/4_4.json#tiled_map_4_32": {
+            "scaleInDock": 1
+        },
+        "quoicoucity/city/5_0.json": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": -2,
+                "y": -0.5
+            }
+        },
+        "quoicoucity/city/5_1.json": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": -1,
+                "y": -0.5
+            }
+        },
+        "quoicoucity/city/5_1.json#tiled_map_4_32": {
+            "scaleInDock": 1
+        },
+        "quoicoucity/city/5_2.json": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": -2,
+                "y": -0.5
+            }
+        },
+        "quoicoucity/city/5_2.json#tiled_map_4_32": {
+            "scaleInDock": 1
+        },
+        "quoicoucity/city/5_3.json": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": -1,
+                "y": -0.5
+            }
+        },
+        "quoicoucity/city/5_3.json#tiled_map_4_32": {
+            "scaleInDock": 1
+        },
+        "quoicoucity/city/5_4.json": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": -1,
+                "y": -0.5
+            }
+        },
+        "quoicoucity/city/5_4.json#tiled_map_4_32": {
+            "scaleInDock": 1
+        },
+        "quoicoucity/quoicoucity_infini.json": {
+            "scale": 0.33,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": -866.6666666666667,
+                "y": 850.0000000000001
+            }
+        },
+        "quoicoucity/quoicoucity_infini.json#tiled_map_4_32": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "quoicoucity/test.json": {
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 534,
+                "y": 490.99999999999994
+            }
+        },
+        "quoicoucity/test.json#tiled_map_4_32": {
+            "scaleInDock": 0.5
+        },
+        "test/test.json": {
+            "scale": 3,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 204.66666666666666,
+                "y": 138.16666666666669
+            }
+        },
+        "test/test.json#tiled_map_4_32": {
+            "scaleInDock": 1
+        },
+        "test/test.tmj": {
+            "scale": 2.6232954545454543,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -1.9059995668182808,
+                "y": 174.39896036387267
+            }
+        },
+        "tileset/tiled_map_4_32.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "world/feurcity.json": {
+            "scale": 0.75,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 1435.3333333333333,
+                "y": 2407.333333333333
+            }
+        },
+        "world/feurcity.json#tiled_map_4_32": {
+            "scaleInDock": 1
+        },
+        "world/gtaVIbeachbaby.json": {
+            "scale": 1.5,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 1192,
+                "y": 606.6666666666666
+            }
+        },
+        "world/gtaVIbeachbaby.json#tiled_map_4_32": {
+            "scaleInDock": 0.75
+        },
+        "world/gtaVIbeachbaby_infinity.json": {
+            "scale": 0.25,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 526,
+                "y": -330
+            }
+        },
+        "world/maincity.json": {
+            "scale": 0.125,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 1176,
+                "y": 2544
+            }
+        },
+        "world/maincity.json#tiled_map_4_32": {
+            "scaleInDock": 1
+        },
+        "world/maincity_infinty.json": {
+            "scale": 0.125,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 424,
+                "y": 3252
+            }
+        },
+        "world/quoicoucity.json": {
+            "scale": 0.125,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": -688,
+                "y": -844
+            }
+        },
+        "world/quoicoucity.json#tiled_map_4_32": {
+            "scaleInDock": 0.75
+        }
+    },
+    "last.imagePath": "C:/Users/antoi/Documents/EPSI/SN2/C Phaser/pokemon/public/assets/img/level/tileset",
+    "map.fixedSize": true,
+    "map.height": 231,
+    "map.lastUsedFormat": "json",
+    "map.width": 165,
+    "openFiles": [
+        "world/quoicoucity.json"
+    ],
+    "project": "map.tiled-project",
+    "property.type": "int",
+    "recentFiles": [
+        "world/quoicoucity.json",
+        "tileset/tiled_map_4_32.json",
+        "world/gtaVIbeachbaby.json",
+        "world/maincity.json",
+        "world/maincity_infinty.json",
+        "world/gtaVIbeachbaby_infinity.json",
+        "world/feurcity.json",
+        "test/test.json",
+        "city/quoicoucity.json",
+        "city/quoicoucity_infini.json",
+        "quoicoucity/quoicoucity_infini.json",
+        "quoicoucity/test.json"
+    ],
+    "tileset.lastUsedFormat": "json",
+    "tileset.transparentColor": "#000000",
+    "tileset.useTransparentColor": true
+}

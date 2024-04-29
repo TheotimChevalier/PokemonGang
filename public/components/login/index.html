@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Connexion</title>
+
+  <link rel="stylesheet" href="./style/login.css">
+  <link rel="stylesheet" href="./style/components/button.css">
+
+  <script src="/assets/phaser/lib/socket.io.js"></script>
+</head>
+<body>
+ 
+  <form action="/api/user/register" method="post" class="form-hide" id="form-register">
+  <!--<form class="form-hide" id="form-register">-->
+    <h2>Inscription</h2>
+    <label for="register-username">Nom d'utilisateur:</label>
+    <input type="text" id="register-username" name="username" required>
+    <br>
+    <label for="register-password">Mot de passe:</label>
+    <input type="password" id="register-password" name="password" required>
+    <br>
+    <label for="register-confirmPassword">Confirmer le mot de passe:</label>
+    <input type="password" id="register-confirmPassword" name="confirmPassword" required>
+    <br>
+    <button class="btn-success" type="submit">S'inscrire</button>
+    <!--<button class="btn-success" type="button">S'inscrire</button>-->
+    <button class="btn-primary" type="button" onclick="toggleForm()">Connectez-vous ici</button>
+  </form>
+  
+  <!--<form action="/api/user/login" method="post" class=""  id="form-login">-->
+  <form class="" action="javascript:void(0);" id="form-login">
+    <h2>Connexion</h2>
+    <label for="login-username">Nom d'utilisateur:</label>
+    <input type="text" id="login-username" name="username" required>
+    <br>
+    <label for="login-password">Mot de passe:</label>
+    <input type="password" id="login-password" name="password" required>
+    <br>
+    <button class="btn-success" type="submit">Se connecter</button>
+    <!--<button class="btn-success" type="button" id="btn-login">Se connecter</button>-->
+    <button class="btn-primary" type="button" onclick="toggleForm()">Inscrivez-vous ici</button>
+  </form>
+
+  <div class="form-hide" id="div-error-message">
+    <p id="error-message-paragraph"></p>
+  </div>
+
+  <script src="./assets/js/login.js"></script>
+</body>
+</html>
